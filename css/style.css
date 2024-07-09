@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+
+}
+h1{
+        color: blueviolet;
+        text-align: center;
+        border: 5px groove blanchedalmond;
+        border-radius: 200px;
+        margin: 100px 260px 100px 260px;
+        text-shadow: rgb(226, 168, 226);
+    }
+    h2{
+        color: rgb(3, 155, 104);
+        text-decoration: underline rgb(11, 185, 127);
+    }
+h3{
+    color:  rgb(255, 180, 180);
+}
+#image-1{ 
+    background-color: rgb(252, 151, 255); 
+    border: groove;
+    border-radius: 150;
+    margin:  0px 200px 0px 200px;
+}
+h4{
+    color: rgb(243, 95, 124);
+}
+p{
+    color: rgb(149, 204, 248);
+}
+th{
+    color: rgb(129, 238, 193);
+}
+td{
+    color: rgb(252, 153, 199);
+}
+.td-1{
+    color: rgb(129, 238, 193);
+
+}
+h5{
+    color: aqua;
+    border: solid rgb(221, 122, 221);
+     margin: 0px 400px 0px 400px;
+    width: auto;
+    text-align: center;
+}
+.box{
+    background-color: blanchedalmond;
+    box-shadow: 10px 10px 20px;
+    text-shadow: 10px 10px 10px rgb(228, 184, 184);
+    color:  rgb(82, 38, 79);
+    margin: 50px 60px 50px 60px;
+}
