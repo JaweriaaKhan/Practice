@@ -1,0 +1,44 @@
+#header{
+    display: flex;
+    background-color: rgb(48, 2, 92);
+    height: 90px;
+    justify-content: space-between;
+}
+.logo{
+     width: auto;
+    background-color: rgb(26, 22, 22);
+}
+li {
+    display: inline;
+    text-align: center;
+    margin: 10px;
+}  
+
+.search-bar{
+    width: auto;
+    background-color: rgb(48, 2, 92);
+    margin: 30px;
+}
+
+
+#links{
+    text-decoration: none;
+    color: rgb(188, 124, 240);
+    padding: 5px 10px;
+    font-size: 20px;
+}
+button{
+    background-color: black;
+    color: rgb(213, 181, 243);
+}
+input{
+    background-color: rgb(193, 143, 240);
+    color: white;
+}
+body{
+    background-image: url('./image2/NAV4.JPEG');
+    width:"2000px";
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    

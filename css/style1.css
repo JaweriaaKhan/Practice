@@ -1,0 +1,15 @@
+#header{
+    display: flex;
+    background-color: rgb(48, 2, 92);
+.logo{
+    background-color: rgb(26, 22, 22);
+}
+.nav-bar{
+    width: 70%;
+    height: 80px;
+
+}
+li {
+    display: inline;
+}   
+}
