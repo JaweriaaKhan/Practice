@@ -1,12 +1,13 @@
 #header{
     display: flex;
-    background-color: rgb(48, 2, 92);
-    height: 90px;
+    background-color: rgb(85, 0, 102);
+    height: 70px;
     justify-content: space-between;
 }
 .logo{
-     width: auto;
-    background-color: rgb(26, 22, 22);
+    
+    background-color: rgb(86, 0, 107);
+    height: 70px;
 }
 li {
     display: inline;
@@ -36,9 +37,56 @@ input{
     color: white;
 }
 body{
-    background-image: url('./image2/NAV4.JPEG');
-    width:"2000px";
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+    background-repeat: repeat;
+
+  background-color: rgb(242, 215, 255);
     
+}
+#body{
+.box{
+    margin: 10px;
+    display: flex;
+
+}
+ .box-1{
+    
+    border: 2px solid rgb(97, 3, 97);
+     width: 30%; 
+    padding : auto;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: rgb(209, 170, 245);
+    box-shadow: 0px 10px 2px rgb(44, 0, 44);
+    text-align: center;
+     text-shadow: 10px;
+}
+.box-2{
+   
+    border: 2px solid rgb(97, 3, 97);
+     width: 30%; 
+    padding : auto;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: rgb(209, 170, 245);
+    box-shadow: 0px 10px 2px rgb(44, 0, 44);
+    text-align: center;
+     text-shadow: 10px;
+    
+}
+.box-3{
+   
+    border: 2px solid rgb(97, 3, 97);
+     width: 30%; 
+    padding : auto;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: rgb(209, 170, 245);
+    box-shadow: 0px 10px 2px rgb(44, 0, 44);
+    text-align: center;
+     text-shadow: 10px;
+}
+.box-1:hover , .box-2:hover , .box-3:hover{ 
+    box-shadow: 10px 10px 0px;
+    margin-left: 10px;
+} 
+}
