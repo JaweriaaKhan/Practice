@@ -5,6 +5,35 @@ body{
     background-size:cover ;
     background-attachment: fixed;
 }
+#navbar-0{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    /* justify-content: space-between; */
+  }
+  .menu{
+    margin-left: 250px;
+    margin-top: 0px;
+  }
+  .img-0, .menu{
+    display: inline;
+  
+    
+  }
+  
+  li {
+    display: inline;
+    text-align: center;
+    margin: 10px;
+  }  
+  
+  
+  #links{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 5px 10px;
+    font-size: 20px;
+  }
 .h1-4{
     margin: 150px;
     text-align: center;
